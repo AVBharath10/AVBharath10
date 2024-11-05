@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to crea
 
 
 ## 📈 GitHub Stats
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVBharath10&show_icons=true&theme=radical)
 
 ---
 
