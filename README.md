@@ -16,7 +16,6 @@ Welcome to my GitHub! I'm passionate about technology and always looking to crea
 - **Languages**: JavaScript (React, Vue.js), Python (Django), Java
 - **Cloud & DevOps**: Prisma Cloud, CNAPP Solutions, Cloud Native Computing
 - **Database**: MongoDB, MySQL
-- **Cybersecurity**: Zero Trust Models, Malware Detection
 
 
 ## 📈 GitHub Stats
