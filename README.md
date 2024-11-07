@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to crea
 ## 🚀 Skills
 - **Languages**: JavaScript (React, Vue.js), Python (Django), Java
 - **Cloud & DevOps**: Prisma Cloud, CNAPP Solutions, Cloud Native Computing
-- **Database**: MongoDB, MySQL
+- **Database**: MongoDB, MySQL.
 
 
 ## 📈 GitHub Stats
