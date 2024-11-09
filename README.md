@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to crea
 
 ## 📝 Latest Highlights
 - **New Tech Articles**: Writing on networking, cloud solutions, and JavaScript best practices
-- **Current Study**: Revisiting HTML, CSS, and JavaScript frameworks
+- **Current Study**: Revisiting HTML, CSS, and JavaScript frameworks.
 
 ---
 
