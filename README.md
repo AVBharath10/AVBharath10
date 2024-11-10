@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to crea
 ## 💻 About Me
 - 🌱 Currently expanding my skills with **React** and **Vue.js**
 - 👨‍🎓 Recent Courses: **Cisco Networking Essentials, JLPT N5**
-- 🚀 I believe in lifelong learning and the power of knowledge to create change.
+- 🚀 I believe in lifelong learning and the power of knowledge to create change
 
 ---
 
